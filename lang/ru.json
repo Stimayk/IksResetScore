@@ -1,0 +1,16 @@
+{
+    "MenuOption.ResetScore": "Сброс счета",
+	"MenuOption.SP": "Выбор игрока",
+	"ResetScore": "Полностью",
+	"ResetKills": "Только убийства",
+	"ResetDeaths": "Только смерти",
+	"ResetAssists": "Только ассистов",
+	"ResetScoreAdmin": "Вы успешно сбросили счет игрока {0}",
+	"ResetScorePlayer": "Администратор {0} сбросил Ваш счет",
+	"ResetKillsAdmin": "Вы успешно сбросили счет убийств игрока {0}",
+	"ResetKillsPlayer": "Администратор {0} сбросил Ваш счет убийств",
+	"ResetDeathsAdmin": "Вы успешно сбросили счет смертей игрока {0}",
+	"ResetDeathsPlayer": "Администратор {0} сбросил Ваш счет смертей",
+	"ResetAssistsAdmin": "Вы успешно сбросили счет ассистов игрока {0}",
+	"ResetAssistsPlayer": "Администратор {0} сбросил Ваш счет ассистов"
+}
